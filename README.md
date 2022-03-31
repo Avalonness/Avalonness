@@ -23,7 +23,7 @@ Mes objectifs à long terme sont d'obtenir un diplôme pour certifier mes compé
 
 Vous pouvez aussi :
 <br />
-    • Visiter mon GitHub: [Avalonness](https://github.com/Avalonness) 
+     • Visiter mon GitHub: [Avalonness](https://github.com/Avalonness) 
     <br />
-    • Mon Portefolio : [Portefolio DOMINGUES Vincent](http://vincentdomingues.avalonnes.fr/)
+     • Mon Portefolio : [Portefolio DOMINGUES Vincent](http://vincentdomingues.avalonnes.fr/)
     
