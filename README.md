@@ -21,8 +21,9 @@ You can click the Preview link to take a look at your changes.
 Mes objectifs à long terme sont d'obtenir un diplôme pour certifier mes compétences en Front-End via alternance, mais aussi d'obtenir de l'expérience en tant que développeur. N'hésitez pas à parcouvrir mon GitHub pour découvrir les projets auquel j'ai participé ! 
 
 
-## Vous pouvez aussi :
+Vous pouvez aussi :
 <br />
-    • Visiter mon GitHub: [Avalonness](https://github.com/Avalonness)<br />
+    • Visiter mon GitHub: [Avalonness](https://github.com/Avalonness) 
+    <br />
     • Mon Portefolio : [Portefolio DOMINGUES Vincent](http://vincentdomingues.avalonnes.fr/)
     
